@@ -1,0 +1,5 @@
+export const REQUEST_BOOKINGS = "REQUEST_BOOKINGS";
+export const GET_BOOKING = "GET_BOOKINGS";
+export const REMOVE_BOOKING = "REMOVE_BOOKING";
+
+export const ADD_BOOKING = "ADD_BOOKINGS";
